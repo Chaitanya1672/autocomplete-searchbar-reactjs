@@ -1,0 +1,14 @@
+.searchInp {
+  width: 50%;
+  margin: 5% auto 0;
+  height: 2rem;
+}
+
+.inp {
+  width: 80%;
+  height: 100%;
+}
+.btn {
+  width: 20%;
+  height: 100%;
+}

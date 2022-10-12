@@ -1,0 +1,10 @@
+.list {
+  width: 92%;
+  margin: 1rem auto;
+  height: 150px;
+  overflow-y: auto;
+}
+.unl {
+  list-style-type: none;
+  font-size: large;
+}

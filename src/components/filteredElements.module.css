@@ -1,0 +1,15 @@
+.cardItem {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+}
+.cardDiv {
+  text-align: start;
+  /* display: inline-block; */
+  margin-right: 1rem;
+  margin-bottom: 1rem;
+  height: 80px;
+  width: 150px;
+  border: 1px solid black;
+}
